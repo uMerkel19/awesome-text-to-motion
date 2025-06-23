@@ -1,0 +1,10 @@
+{
+  "name": "awesome-text-to-motion",
+  "version": "0.1.0",
+  "description": "Text-driven human motion generation surveys, datasets and models.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
