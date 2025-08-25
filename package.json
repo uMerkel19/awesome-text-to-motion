@@ -1,6 +1,6 @@
 {
   "name": "awesome-text-to-motion",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Text-driven human motion generation surveys, datasets and models.",
   "main": "src/index.ts",
   "scripts": {
